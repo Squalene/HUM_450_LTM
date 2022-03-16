@@ -1,0 +1,478 @@
+original,corrected
+agent de police,agent de police
+agricult,agriculteur
+agriculteur id,agriculteur|idem
+agt,agent
+aide,aide
+ailleuse,tailleuse
+alire,NSP
+alix,NA
+annee de naissance,NA
+annee de naissance .,NA
+ans,NSP
+aopriculteur,agriculteur
+app,apprenti
+app couturiere,apprentie couturiere
+app negociant,apprenti negociant
+app tailleuse,apprentie tailleuse
+apprentie modiste,apprentie modiste
+apprentier,apprenti
+apprentis,apprenti
+apprentisse,apprenti
+arpentier,charpentier
+atier,NSP
+atiere,NSP
+atif,NSP
+aypographe,typographe
+bauquier,banquier
+belmont,NA
+bem,NSP
+ben,NSP
+bens,NSP
+berne,NA
+beulanger,boulanger
+bijoulier,bijoutier
+bingere,lingere
+blanchi ause,blanchisseuse
+bonne,bonne
+cafelier,cafetier
+caiffeur,coiffeur
+catelier,cafetier
+chapellier,chapellier
+charon,charron
+charpent,charpentier
+charrelier,charrelier
+chirurgien,chirurgien
+cimenteur,cimenteur
+cinturier,ceinturier
+clerc,clerc
+cleve,eleve
+clever caveug id,eleve|caveur|idem
+coge,NSP
+commissionnaire,commissionnaire
+compagne,compagne
+conne,bonne
+conseiller,conseiller
+cord,cordonnier 
+cordonier,cordonnier
+cordourier,cordonnier/couturier?
+coucher,boucher
+cousiniere,cuisiniere
+couvrent,couvreur
+cullieateur,cultivateur
+cullisateur,cultivateur
+culottier,cullotier
+cultivateur,cultivateur
+dam,NSP
+de leur recepisse,NSP
+de naisse,NA
+del,NSP
+delle de magasin,demoiselle de magasin
+dem,idem
+deux,NSP
+dgne,domestique
+dicelinaire,disciplinaire
+diciolinaire,disciplinaire
+diciphinaire id,disciplinaire
+diephinaire,disciplinaire
+dinier,jardinier
+docteur,docteur
+dom,domestique
+dome,domestique
+domel,domestique
+domest,domestique
+domesti,domestique
+domestiq,domestique
+domestiqne,domestique
+domestique .,domestique
+domestique cleves oapheline,domestique|eleve|orpheline
+domestique domestique,domestique|domestique
+domestique el regent,domestique|regent
+domestique id,domestique|idem
+domestique id id,domestique|idem|idem
+domestique idem,domestique|idem
+domestique ouvrier,domestique|ouvrier
+domestique pensionnaire,domestique|pensionnaire
+domestiques,domestique
+domi,domestique
+donnier,cordonnier
+doue,domestique
+dqe,domestique
+dqu,NSP
+dque dque,domestique|domestique
+dque id,domestique|idem
+due,domestique
+dve,domestique
+e id,NSP|idem
+echaud,NSP
+eleire,eleve
+elene,eleve
+elene aveug id,eleve|idem
+eleve,eleve
+eleve engent,eleve|regent
+eleve regent,eleve|regent
+eleve regente,eleve|regente
+elieur,relieur
+eline,NSP
+emp,employe
+emp . a la gare,employe a la gare
+emp . au chateau,employe au chateau
+emp . postal,employe postal
+emp . so .,employe
+emp de banque,employe de banque
+emp j p,employe
+emp j s,employe
+emp so,employe
+empl j s,employe
+empl postal,employe postal
+empley,employe
+employe s,employe
+employee,employee
+employer interne,employe interne
+en chambre,NSP
+enf,enfant
+enfant,enfant
+enfant naturel,enfant naturel
+enft illegit,enfant illegitime
+enpension,en pension
+epalinges,NA
+epiciere,epiciere
+et,NA
+etier,rentier
+etiere,rentiere
+etudiant in,etudiant|idem
+etudiante,etudiante
+eypographe,typographe
+fabriquent,fabricant
+fait des menages,femme de ménage
+felier,telier
+fem de ch,femme de chambre
+fem de chambre,femme de chambre
+femme de ch,femme de chambre
+fermiers,fermier
+fernier,fermier
+fetier,cafetier
+fille de boutique,fille de boutique
+fille de chambre,femme de chambre
+fille de magasin,fille de magasin
+filleuse,fileuse
+fortier,fortier
+gagne denier,gagne denier
+gailleur,tailleur
+garde de jour,garde de jour
+garde feres,NSP
+garde malade,garde malade
+garde police,garde police
+gardinier,jardinier
+ge,NSP
+gendanme,gendarme
+gere,pere
+gipier,gipier
+gipseur,gipseur
+gipsier,gipsier
+gociant,negociant
+gociante,negociante
+gondarme,gendarme
+got,NSP
+gotiant,negociant
+gouvernant pensionnaire,gouvernant|pensionnaire
+gre,NSP
+gte,NSP
+guisier,guisier
+gypseur,gypseur
+gypsier,gypsier
+henri,NA
+henuisier,menuisier
+hotelier,hotelier
+ici,idem
+id .,idem
+id a,idem
+id domestique,idem|domestique
+id dque,idem|domestique
+id i,idem|idem
+id id,idem|idem
+id id id,idem|idem|idem
+id id id id,idem|idem|idem|idem
+id ls,idem|idem
+id n,idem
+id ne aisse,idem|NA
+id nee de naisse,idem|NA
+id pensionnaire,idem|pensionnaire
+ide,idem
+idem .,idem
+idem domestique,idem|domestique
+idemidem,idem|idem
+ideon,idem
+idme,idem
+idod,idem
+idom,idem
+idt,idem
+ier,NSP
+ilems,idem
+ineurable,incurable
+infirme,infirme
+istre,NSP
+jann,NSP
+jaque,NSP
+jardinier domestique,jardinier|domestique
+jean,NA
+jenny,NSP
+jeun,NSP
+jeurn,journalier
+jone,NSP
+journ,journalier
+journailler,journalier
+journaillere,journaliere
+journaillier,journalier
+journailliere,journaliere
+journal,journalier
+journalie,journalier
+journalierer,journalier
+journallier,journalier
+journalliere,journalier
+juge d appel,juge d appel
+julier,NSP
+kem,NSP
+la vigneron,vigneron
+labaure,laboureur
+laber,laboureur
+labour,laboureur
+laboureur,laboureur
+laboureure,laboureur
+laboureuse,laboureuse
+langer,boulanger
+lans,NSP
+laus,NA
+lausanne,NA
+lavandiere,lavandiere
+lavendiere,lavandiere
+lebaureur,laboureur
+lecheur,pecheur
+leffiveuse,lessiveuse
+lege,NSP
+len eogemont,NSP
+lessineuse,lessiveuse
+leur,NSP
+leveregent idem,eleve|regent|idem
+lie,NSP
+lier,NSP
+linger,linger
+logeur,logeur
+louis,NA
+louise,NA
+loye,employe
+lque,domestique
+ls vocation,sans vocation
+lutry,NA
+m boucher,maitre boucher
+m cordonnier,maitre cordonnier
+m de pension,maitre de pension
+m jardinier,maitre jardinier
+m tailleur,maitre tailleur
+magon,macon
+maitre,maitre
+maitresse,maitresse
+malade,malade
+manoeuvre,manoeuvre
+manouvrier,manouvrier
+march,marchand
+marchand de vin,marchand de vin
+marchde,marchande
+marche,marchand
+marchs,marchand
+marichal,marechal
+maron,macon
+masson,macon
+me de pension,maitre de pension
+menoeuvre,manoeuvre
+menrier,NSP
+menrinier,NSP
+menritier,NSP
+mension,NSP
+mere,mere
+merery,NSP
+meron,NSP
+minagere,menagere
+monagere,menagere
+monnier,meunier
+moudon,NA
+municapal,municipal
+munier,meunier
+nalade,malade
+nalier,journalier
+ne,NSP
+nee de naisse,NA
+negt,negociant
+ni ds,NSP
+niculteur,agriculteur
+nier,NSP
+no de,NSP
+no de leur recepisse,NSP
+no des,NSP
+noge,NSP
+nsesonaire pensionnaire,pensionnaire|pensionnaire
+nuissier,huissier
+ordonnier,cordonnier
+orferre,orfevre
+ounier,ouvrier
+ournalier,journalier
+ouv,ouvrier
+ouv charpentier,ouvrier charpentier
+ouv cordonnier,ouvrier cordonnier
+ouv de ville,ouvrier de ville
+ouv menuisier,ouvrier menuisier
+ouv serrurier,ouvrier serrurier
+ouvr macon d,ouvrier macon
+ouvrier di,ouvrier
+ouvrier loge,ouvrier
+ouvrier menuisier,ouvrier menuisier
+paint,peintre
+pare,parent
+parent,parent
+paul,NA
+paus,NSP
+peint,peintre
+pelier,chapelier
+penre,peintre
+pens,pensionnaire
+pens .,pensionnaire
+pens dque,pensionnaire|domestique
+pensi,pensionnaire
+pension,pensionnaire
+pension re,pensionnaire
+pensionaire,pensionnaire
+pensionaire idem,pensionnaire|idem
+pensionn,pensionnaire
+pensionn .,pensionnaire
+pensionna,pensionnaire
+pensionnai,pensionnaire
+pensionnaire .,pensionnaire
+pensionnaire domestique,pensionnaire|domestique
+pensionnaire dque,pensionnaire|domestique
+pensionnaire id,pensionnaire
+pensionnaire id id,pensionnaire|idem|idem
+pensionnaire idem,pensionnaire|idem
+pensionnaire pensionnaire,pensionnaire|pensionnaire
+pensionnat,pensionnaire
+pensionne,pensionnaire
+pensionnre,pensionnaire
+pensionr,pensionnaire
+pensionre,pensionnaire
+pensre,pensionnaire
+pensre .,pensionnaire
+pensre de,pensionnaire
+pent,peintre
+pentre,peintre
+peus,NSP
+pierre,NA
+pilleuse,NSP
+pins,NSP
+poins,NSP
+point,NSP
+poirt,NSP
+pomese,domestique
+poprietaire,proprietaire
+potier de terre,potier de terre
+pouit,NSP
+pourcoucher,boucher
+pout,NSP
+prafesseur,professeur
+pre,NSP
+prietaire,proprietaire
+print,NSP
+profession,sans profession
+proprietair,proprietaire
+psion,pensionnaire
+pully,NA
+rapes,NSP
+reg,regent
+regis,regent
+regt,regent
+reguste,droguiste
+rent,rentier
+rentiere .,rentier
+rention,rentier
+rentr,rentier
+renuisier,menuisier
+reulier,rentier
+revendeuse,vendeuse
+,
+rietaire,proprietaire
+rintier,rentier
+rnalier,journalier
+rnaliere,journaliere
+rnsimie,NSP
+ront,NSP
+rontr,NSP
+roprietaire,proprietaire
+s profession,sans profession
+s vocation,sans vocation
+sa fille,NA
+sage femme,sage femme
+sallieur,tailleur
+sans,sans profession
+sans profession,sans profession
+sans voc,sans vocation
+sans vocat,sans vocation
+sansetta,NSP
+sansette,NSP
+saus,NSP
+scieur,scieur
+seiller,sellier
+seillier,sellier
+serrurrier,serrurrier
+servante,servante
+servante ouvrier,servante ouvrier
+sifferand,tisserand
+sineraud,NSP
+sommeiller,sommeiller
+sommeliere,sommeliere
+son domestique,domestique
+spocation,sans vocation
+spvocation,sans vocation
+st,NSP
+st cordonnier,cordonnier
+st profess,sans profession
+st vocation,sans vocation
+ste croix idhd,NA
+svocation,sans vocation
+syvocation,sans vocation
+taboureur,taboureur
+tailleur d habits,tailleur d habits
+tailleur de pierres,tailleur de pierres
+tailleure,tailleur
+taillieur,taillieur
+taillieus,taillieuse
+taillieuse,taillieuse
+tanneux,tanneur
+tendeur de vin,vendeur de vin
+terrassier,terrassier
+tient ecole,tient une ecole
+tiere,NSP
+tilleur,taillieur
+tisseraud,tisserand
+toujours,NSP
+typographe,typographe
+une,NSP
+valet de chambre,valet de chambre
+valteur,NSP
+vandeur de vin,vendeur de vin
+vend vin,vendeur de vin
+vendoin,vendeur de vin
+venre,NSP
+veudeur de vin,vendeur de vin
+veuve,veuve
+vigneron d,vigneron
+vigneronne,vigneronne
+vintier,pintier
+vit de ses rentes,rentier
+vit de sesrenter,rentier
+vit de sesrentes,rentier
+vocatier,NSP
+vocation,sans vocation
+voiturier .,voiturier
+volontaire,volontaire
+vve de chambre,valet de chambre
+murier,armurier
+griculteur,agriculteur
+renlier,rentier
