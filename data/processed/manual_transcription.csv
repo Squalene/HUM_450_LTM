@@ -319,7 +319,7 @@ annee,xls_id,chef_vocation,chef_vocation_transcripted,chef_vocation_certitude,pe
 1868,44,cordonnier,cordonnier,5,domestique,domestique,5,,,
 1868,45,serrurier,serrurier,5,·,,,,,
 1868,46,architecte,architecte,5,·,,,,,
-1868,47,gocient,négociant,5,·,,,,,
+1868,47,gocient,negociant,5,·,,,,,
 1868,48,audecin,medecin,5,domestique,,,,,
 1868,49,rentiere,rentiere,5,·,,,,,
 1868,50,charpentier,charpentier,5,couturiere,couturiere,5,,,
