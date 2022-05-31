@@ -1,6 +1,6 @@
 # L'évolution des métiers au XIX siècle à Lausanne
 
-Ce répértoire contient toutes les ressources nécessaires à la reproduction des résultats présentés dans [notre étude de l'évolution des métiers au XIX siècle à Lausanne](TODO AJOUTER LE LIEN DU SITE WEB). 
+Ce répértoire contient toutes les ressources nécessaires à la reproduction des résultats présentés dans [notre étude de l'évolution des métiers au XIX siècle à Lausanne](https://emls19.wixsite.com/population3). 
 
 Organisation des notebooks:
 
