@@ -1,4 +1,4 @@
-# HUM_450_LTM - L'évolution des métiers au XIX siècle à Lausanne
+# L'évolution des métiers au XIX siècle à Lausanne
 
 Ce répértoire contient toutes les ressources nécessaires à la reproduction des résultats présentés dans [notre étude de l'évolution des métiers au XIX siècle à Lausanne](TODO AJOUTER LE LIEN DU SITE WEB). 
 
